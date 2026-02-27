@@ -9,12 +9,12 @@
     "category": "Live TV",
     "versions": [
       {
-        "version": "1.2.4.5",
-        "changelog": "LiveForge v1.2.4.5",
+        "version": "1.2.4.6",
+        "changelog": "LiveForge v1.2.4.6",
         "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/liveforge/release/releases/download/v1.2.4.5/liveforge-1.2.4.5.zip",
-        "checksum": "ba9d88d944e69d8cb2caa0479a748e22",
-        "timestamp": "2026-02-27T01:26:50Z"
+        "sourceUrl": "https://github.com/liveforge/release/releases/download/v1.2.4.6/liveforge-1.2.4.6.zip",
+        "checksum": "e27550e9b6bdb10014d9d6ee1fb8a62f",
+        "timestamp": "2026-02-27T01:43:35Z"
       }
     ]
   }
