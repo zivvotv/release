@@ -9,12 +9,12 @@
     "category": "Live TV",
     "versions": [
       {
-        "version": "1.2.6.1",
-        "changelog": "Zivvo v1.2.6.1",
+        "version": "1.2.6.2",
+        "changelog": "Zivvo v1.2.6.2",
         "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/zivvotv/release/releases/download/v1.2.6.1/zivvo-1.2.6.1.zip",
-        "checksum": "5ad30e725fe0683bc74be40cb62df22d",
-        "timestamp": "2026-03-01T13:33:32Z"
+        "sourceUrl": "https://github.com/zivvotv/release/releases/download/v1.2.6.2/zivvo-1.2.6.2.zip",
+        "checksum": "e417e256c23f1637f0a791ab24605653",
+        "timestamp": "2026-03-01T13:38:28Z"
       }
     ]
   }
