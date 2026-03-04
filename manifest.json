@@ -15,6 +15,14 @@
         "sourceUrl": "https://github.com/zivvotv/release/releases/download/v1.7.0.0/zivvo-1.7.0.0.zip",
         "checksum": "ee2dddf50c17f0e844fb49c92f8c6a77",
         "timestamp": "2026-03-03T23:44:52Z"
+      },
+      {
+        "version": "1.7.0.0",
+        "changelog": "Zivvo v1.7.0.0",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/zivvotv/release/releases/download/v1.7.0.0/zivvo-1.7.0.0.zip",
+        "checksum": "ee2dddf50c17f0e844fb49c92f8c6a77",
+        "timestamp": "2026-03-03T23:44:52Z"
       }
     ]
   }
