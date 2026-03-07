@@ -1,0 +1,29 @@
+[
+  {
+    "guid": "f7a3b1c2-9d4e-4f5a-8b6c-0e1d2f3a4b5c",
+    "name": "Zivvo",
+    "description": "Provides electronic program guide data for US over-the-air channels based on zip code. Includes up to 15 days of guide data with descriptions, episode numbers, ratings, and thumbnail images. No API key or account required.",
+    "overview": "Free OTA TV guide data for Jellyfin",
+    "owner": "tvinhas",
+    "imageUrl": "https://raw.githubusercontent.com/zivvotv/release/master/zivvo.png",
+    "category": "LiveTV",
+    "versions": [
+      {
+        "version": "1.10.3.5",
+        "changelog": "Zivvo v1.10.3.5",
+        "targetAbi": "10.12.0.0",
+        "sourceUrl": "https://github.com/zivvotv/release/releases/download/v1.10.3.5/zivvo-1.10.3.5.zip",
+        "checksum": "16851a2fb7ab757d0759d621152b9ac4",
+        "timestamp": "2026-03-07T03:46:53Z"
+      },
+      {
+        "version": "1.10.3.5",
+        "changelog": "Zivvo v1.10.3.5",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/zivvotv/release/releases/download/v1.10.3.5/zivvo-1.10.3.5.zip",
+        "checksum": "16851a2fb7ab757d0759d621152b9ac4",
+        "timestamp": "2026-03-07T03:46:53Z"
+      }
+    ]
+  }
+]
