@@ -9,20 +9,20 @@
     "category": "LiveTV",
     "versions": [
       {
-        "version": "1.5.2.4",
-        "changelog": "Zivvo v1.5.2.4",
+        "version": "1.5.2.5",
+        "changelog": "Zivvo v1.5.2.5",
         "targetAbi": "10.12.0.0",
-        "sourceUrl": "https://github.com/zivvotv/release/releases/download/v1.5.2.4/zivvo-1.5.2.4.zip",
-        "checksum": "c8b6c569e56baaeb182a94934927a456",
-        "timestamp": "2026-04-13T23:39:41Z"
+        "sourceUrl": "https://github.com/zivvotv/release/releases/download/v1.5.2.5/zivvo-1.5.2.5.zip",
+        "checksum": "efa35aefa61ca04f1304fc447f5ff7fb",
+        "timestamp": "2026-04-14T01:40:34Z"
       },
       {
-        "version": "1.5.2.4",
-        "changelog": "Zivvo v1.5.2.4",
+        "version": "1.5.2.5",
+        "changelog": "Zivvo v1.5.2.5",
         "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/zivvotv/release/releases/download/v1.5.2.4/zivvo-1.5.2.4.zip",
-        "checksum": "c8b6c569e56baaeb182a94934927a456",
-        "timestamp": "2026-04-13T23:39:41Z"
+        "sourceUrl": "https://github.com/zivvotv/release/releases/download/v1.5.2.5/zivvo-1.5.2.5.zip",
+        "checksum": "efa35aefa61ca04f1304fc447f5ff7fb",
+        "timestamp": "2026-04-14T01:40:34Z"
       }
     ]
   }
